@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 ## Projects
 ### Virtual Reality Intergenerational Collaborative Escape Room | C#, Unity, Mirror  Feb. 2023 – Sept. 2023
 
-- Designed and developed a multiplayer VR escape room game promoting intergenerational collaboration using C# and Unity, deployed on Meta Quest, utilizing the VR Interaction Toolkit.
+- Designed and developed a multiplayer VR escape room game promoting intergenerational collaboration deployed on Meta Quest.
+- The escape room was used in ageism mitigation experiments, and the results were published on CHI'24 EA. I am the first author of this paper.
 
   <img src="https://s2.loli.net/2024/09/19/GcpUk1ag4ERiO9x.png" alt="QQ_1726682453356.png" style="zoom:38%;" />
 
 - [Github Repository](https://github.com/Seaflowery/VRPeerSupportGame), [Video Link](https://www.youtube.com/watch?v=st_k5bL4ePw), [Publication Link](https://dl.acm.org/doi/10.1145/3613905.3650914)
+
+### Cloud Computing Task Scheduling | C++ Oct. 2022 - Jan. 2023
+- A collaborative project with Alibaba Damo Academy, developed a task scheduling algorithm in C++ to optimize resource utilization.
+- Implemented over 2,500 lines of code in C++, resulting in a resource savings of over 50% based on our Algorithm.
+- The repository is private due to the company's regulations.
 
 ### Warchess Game | Java, Springboot, JPA, PostgreSQL, Unity, C#  Sept. 2022 - Dec. 2022
 
