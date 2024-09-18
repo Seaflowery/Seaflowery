@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Frameworks/Tools: Springboot, Django, Unity, Mybatis, Pytorch, Docker, Flask, Redis, MySQL, PostgreSQL, Git
 
 ## Projects
-### MVirtual Reality Intergenerational Collaborative Escape Room | C#, Unity, Mirror  Feb. 2023 – Sept. 2023
+### Virtual Reality Intergenerational Collaborative Escape Room | C#, Unity, Mirror  Feb. 2023 – Sept. 2023
 
 - Designed and developed a multiplayer VR escape room game promoting intergenerational collaboration using C# and Unity, deployed on Meta Quest, utilizing the VR Interaction Toolkit.
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - [Front-end Github Repository](https://github.com/SuperGummy/CS309-WarChess)
 
-### Augmented Reality Museum Guide | Python, Django, Unity, C#, Alibaba Cloud, MySQL Jan. 2022 - June 2022
+### Augmented Reality Museum Guide | Django, Unity, C#, Alibaba Cloud, MySQL Jan. 2022 - June 2022
 
 - Designed and developed an AR museum guide on HoloLens, including search, explanation, navigation, and game
 
